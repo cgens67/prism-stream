@@ -1,0 +1,6 @@
+{
+  "name": "Prism Stream",
+  "description": "High-performance Material 3 Expressive media client for seamless video watching, music streaming, and Shorts browsing powered by real InnerTube endpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
